@@ -5,7 +5,7 @@ note_COLOMBO_newFLT.pdf the documents shows all the figure produced.
 
 The tables to generate the figures are:
 synth_CALSPEC.csv
-synth_CALSPEC_BPRP.csv
+synth_CALSPEC_BPRP.csv 
 
 synth_PVL.csv
 synth_PVL_BPRP.csv
