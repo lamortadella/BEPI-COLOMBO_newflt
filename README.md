@@ -1,7 +1,9 @@
 Synthetic magnitudes with the new filters of SIMBIO-SYS for the
 SPSSv3.4, CALSPEC, and PVL libraries.
 
-note_COLOMBO_newFLT.pdf the documents shows all the figure produced.
+note_COLOMBO_newFLTnoZERO.pdf the documents shows all the figure produced.
+I added also the older document (from yesterday) note_COLOMBO_newFLT.pdf
+showing the differences when the responses have zeros on the side.
 
 The tables to generate the figures are:
 synth_CALSPEC.csv (IDL)
